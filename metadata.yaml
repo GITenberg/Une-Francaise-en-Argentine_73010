@@ -1,0 +1,54 @@
+_repo: Une-Francaise-en-Argentine_73010
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Sarcey, Yvonne
+    aliases:
+    - Sarcey, Madeleine Yvonne
+    - Sarcey Brisson, Yvonne
+    - Brisson, Yvonne Sarcey
+    - Brisson, Madeleine Yvonne Sarcey
+    birthdate: 1869
+    deathdate: 1950
+    gutenberg_agent_id: '56906'
+    url: http://www.gutenberg.org/2009/agents/56906
+    wikipedia: https://fr.wikipedia.org/wiki/Yvonne_Sarcey
+  illustrator:
+    agent_name: Ciolkowski, H. S.
+    alias: Saulnier, Henri
+    deathdate: 1933
+    gutenberg_agent_id: '56907'
+    url: http://www.gutenberg.org/2009/agents/56907
+    wikipedia: https://fr.wikipedia.org/wiki/H.S._Ciolkowski
+creator:
+  author:
+    agent_name: Moreno, Marguerite
+    birthdate: 1871
+    deathdate: 1948
+    gutenberg_agent_id: '56905'
+    url: http://www.gutenberg.org/2009/agents/56905
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marguerite_Moreno
+    - https://fr.wikipedia.org/wiki/Marguerite_Moreno
+description: ''
+gutenberg_issued: '2024-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73010'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k30434178
+pgterms:marc905: 20231118033528moreno
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bCrès, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Civilization'
+- !lcc 'F2801'
+- GITenberg
+title: Une Française en Argentine
+url: http://www.gutenberg.org/ebooks/73010
