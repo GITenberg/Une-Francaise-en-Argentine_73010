@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '56907'
     url: http://www.gutenberg.org/2009/agents/56907
     wikipedia: https://fr.wikipedia.org/wiki/H.S._Ciolkowski
+covers:
+- cover_type: archival
+  image_path: 73010-h/images/cover.jpg
 creator:
   author:
     agent_name: Moreno, Marguerite
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marguerite_Moreno
     - https://fr.wikipedia.org/wiki/Marguerite_Moreno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73010#Une-Francaise-en-Argentine
 gutenberg_issued: '2024-02-21'
 gutenberg_type: Text
 identifiers:
